@@ -1,4 +1,4 @@
-# parcel-plugin-csv
+# @keisisqrl/parcel-plugin-csv
 
 Implements a CSV asset type for Parcel
 
