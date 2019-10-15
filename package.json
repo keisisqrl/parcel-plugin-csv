@@ -1,6 +1,6 @@
 {
   "name": "@keisisqrl/parcel-plugin-csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load CSV as array of objects with parcel",
   "main": "index.js",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
-    "csv-parse": "^4.4.5"
+    "csv-parse": "^4.4.6"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
