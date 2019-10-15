@@ -1,6 +1,6 @@
 {
   "name": "@keisisqrl/parcel-plugin-csv",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Load CSV as array of objects with parcel",
   "main": "index.js",
   "license": "MIT",
